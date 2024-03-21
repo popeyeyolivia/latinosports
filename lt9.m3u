@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:-1,Comedy Central
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+#EXTINF:-1,Tooncast
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1,Space TV
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+#EXTINF:-1,Paramount
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1,TyC Sports
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+#EXTINF:-1,Antena 3 Int.
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+#EXTINF:-1,RT
+http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
+#EXTINF:-1,FOX Sports
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1,Nick Jr.
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+#EXTINF:-1,EWTN
+http://168.227.22.18:1935/live/mobile-012/playlist.m3u8
+#EXTINF:-1,¡HOLA! TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+#EXTINF:-1,Pasiones
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+#EXTINF:-1,n/a(Movies)
+http://168.227.22.18:1935/live/mobile-015/playlist.m3u8
+#EXTINF:-1,Cinecanal
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+#EXTINF:-1,n/a(Sports)
+http://168.227.22.18:1935/live/mobile-017/playlist.m3u8
+#EXTINF:-1,Multipremier
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+#EXTINF:-1,Studio Universal
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1,n/a
+http://168.227.22.18:1935/live/mobile-027/playlist.m3u8
+#EXTINF:-1,A3 CINE
+http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
+#EXTINF:-1,CN
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+#EXTINF:-1,Warner
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+#EXTINF:-1,Fox Sports 2
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1,ESPN
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1,ESPN2
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1,Sony Movies
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+#EXTINF:-1,Sony Channel
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:-1,4
+http://168.227.22.18:1935/live/mobile-036/playlist.m3u8
+#EXTINF:-1,Club 10
+http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
+#EXTINF:-1,NickMusic
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+#EXTINF:-1,Telemundo
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+#EXTINF:-1,TRU TV
+http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
+#EXTINF:-1,MC
+http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
+#EXTINF:-1,ViX español
+http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
+#EXTINF:-1,TNT Series
+http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+#EXTINF:-1,A3 SERIES
+http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
+#EXTINF:-1,AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+#EXTINF:-1,Megavision Canal 21 SV
+http://168.227.22.18:1935/live/mobile-049/playlist.m3u8
+#EXTINF:-1,Megavision Canal 19 SV
+http://168.227.22.18:1935/live/mobile-050/playlist.m3u8
+#EXTINF:-1,Cartoonito
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+#EXTINF:-1,Star Channel
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+#EXTINF:-1,History
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+#EXTINF:-1,USA TV
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+#EXTINF:-1,BabyTV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1,CNN español
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+#EXTINF:-1,Caracol TV
+http://168.227.22.18:1935/live/mobile-062/playlist.m3u8
+#EXTINF:-1,MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+#EXTINF:-1,Universal TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+#EXTINF:-1,Universo
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+#EXTINF:-1,RCN Novelas
+http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
+#EXTINF:-1,Santa Misa
+http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+#EXTINF:-1,ZooMoo
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+#EXTINF:-1,TVO Canal 23
+http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
+#EXTINF:-1,RCN Nuestra Tele Int. CO
+http://168.227.22.18:1935/live/mobile-072/playlist.m3u8
+#EXTINF:-1,TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1,AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+#EXTINF:-1,Canal 12 SV
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+#EXTINF:-1,National Geographic
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+#EXTINF:-1,HBO2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+#EXTINF:-1,Kanal D Drama
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+#EXTINF:-1,CNBC
+http://168.227.22.18:1935/live/mobile-098/playlist.m3u8
+#EXTINF:-1,DreamWorks
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:-1,RTVE
+http://168.227.22.18:1935/live/mobile-100/playlist.m3u8
+#EXTINF:-1,FOX Deportes
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+#EXTINF:-1,Fox Sports 3 MX
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1,Discovery Turbo
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+#EXTINF:-1,2
+http://168.227.22.18:1935/live/mobile-110/playlist.m3u8
+#EXTINF:-1,6
+http://168.227.22.18:1935/live/mobile-111/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+#EXTINF:-1,TVU SV
+http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
+#EXTINF:-1,Canal 3
+http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
+#EXTINF:-1,n/a
+http://168.227.22.18:1935/live/mobile-115/playlist.m3u8
+#EXTINF:-1,teleSUR
+http://168.227.22.18:1935/live/mobile-116/playlist.m3u8
+#EXTINF:-1,TV Azteca Int.
+http://168.227.22.18:1935/live/mobile-117/playlist.m3u8
+#EXTINF:-1,Corazón
+http://168.227.22.18:1935/live/mobile-118/playlist.m3u8
+#EXTINF:-1,Azteca Clic
+http://168.227.22.18:1935/live/mobile-119/playlist.m3u8
+#EXTINF:-1,Azteca Cinema
+http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
+#EXTINF:-1,ESPN3
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#EXTINF:-1,FX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+#EXTINF:-1,ESNE TV
+http://168.227.22.18:1935/live/mobile-124/playlist.m3u8
+#EXTINF:-1,18+ 🔞
+http://168.227.22.18:1935/live/mobile-125/playlist.m3u8
+#EXTINF:-1,TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+#EXTINF:-1,Star TVE
+http://168.227.22.18:1935/live/mobile-129/playlist.m3u8
+#EXTINF:-1,TN23
+http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
+#EXTINF:-1,7
+http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
+#EXTINF:-1,11
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+#EXTINF:-1,TCS Plus
+http://168.227.22.18:1935/live/mobile-135/playlist.m3u8
+#EXTINF:-1,Europa
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+#EXTINF:-1,El Gourmet
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+#EXTINF:-1,Film & Arts
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+#EXTINF:-1,TNT Sports
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1,CCI HD
+http://168.227.22.18:1935/live/mobile-144/playlist.m3u8
+#EXTINF:-1,Enlace
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+#EXTINF:-1,Más Chic
+http://168.227.22.18:1935/live/mobile-146/playlist.m3u8
+#EXTINF:-1,HispanTV
+http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+#EXTINF:-1,TV Azteca Guate
+http://168.227.22.18:1935/live/mobile-148/playlist.m3u8
+#EXTINF:-1,Guatevisión
+http://168.227.22.18:1935/live/mobile-149/playlist.m3u8
+#EXTINF:-1,Canal TRV SV
+http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
+#EXTINF:-1,Telemundo Int.
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+#EXTINF:-1,IVC VE
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+#EXTINF:-1,Lifetime
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+#EXTINF:-1,E!
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+#EXTINF:-1,H2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+#EXTINF:-1,A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+#EXTINF:-1,ESPN4
+http://168.227.22.18:1935/live/mobile-205/playlist.m3u8
