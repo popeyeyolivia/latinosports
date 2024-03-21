@@ -1,0 +1,241 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CCTV5 + 🇨🇳
+https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8?|referer:https://olevod.tv/
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ARMENIA TV 🇦🇲
+http://ott-cdn.ucom.am/s4/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORTS TV 🇹🇷
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FIGHT BOX HD
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X SPORT
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", X SPORT PLUS
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Turkmenistan Sport 🇹🇲
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TENNIS
+https://d3qg0hadt0dkov.cloudfront.net:443/amgtennisus/playlist1080_p.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True Sports
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT LIVE 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLT + Willow Sports
+http://cdn.live247stream.com/thelight/tv/thelight/stream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN DEPORTE 🇺🇸
+http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PTV sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TLT  1
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hoster Live 1
+https://sportsleading.online/live/stream_e1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SKY SPORTS GOLF
+http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT Sport 1
+http://89.187.167.93:80/live.ts?channelId=152&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TNT SPORTS 1
+http://89.187.167.93:80/live.ts?channelId=153&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FOXSPORTS 3 HD.
+http://45.166.92.22:58001/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GOLTV HD.
+http://45.166.92.22:58001/play/a04k/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TyCSports HD.
+http://45.166.92.22:58001/play/a04d/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORTS TV 1
+http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sports TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", LIVE 1
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ASTRO SUPER SPORTS
+https://mlb.mrgamingstreams.com/astro.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WILLOW HD
+https://hls.streambtw.com/live/stream_e1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SKY SPORTS 3 NZ
+https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SKY SPORTS 4 NZ
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS (MMNHD)
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORTS EXTRA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimittrueofileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN sports 1
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN sports 2
+https://edge1.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORTSMAX
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jotm3m_a8wn4PvnOuls_kj01ieR6k1mptTR8SytfsP8kBaL1eEexUbjoBZ3yZVSuP8qyO5Y8f-RwYhL_fDw7Rg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TRUE SPORTS 1
+https://edge1.laotv.la/live/TrueSport6/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True Sports 2
+https://edge2.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True Sports 3
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True Sports 7
+https://edge1.laotv.la/live/THD7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TRUE SPORTS 7 VN
+https://edge2.laotv.la/live/TSports7/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TRUE SPORTS PREMIER 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True Sports Premier 2
+https://edge1.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPER SPORTS LALIGA
+https://sportsleading.online/live/stream_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPER SPORTS FOOTBALL
+https://sportsleading.online/live/stream_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPER SPORTS VARIETY 3
+https://sportsleading.online/live/stream_5.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPER SPORTS VARIETY 2
+https://hls.streambtw.com/live/stream_4.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPER SPORTS VARIETY 2
+https://mlb.mrgamingstreams.com/variety2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SUPER SPORTS VARIETY 3
+https://mlb.mrgamingstreams.com/variety3.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ASPORT
+http://66.160.192.241/aspor/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DUBAI SPORTS
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai Sports 2 FHD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dubai Sports 3 FHD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Via Play Sports 1
+https://hls.streambtw.com/live/stream_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Via Play Sports 2
+https://hls.streambtw.com/live/stream_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True Premier Football 2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", True Sports
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BEIN SPORT LIVE 🇶🇦
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ESPN DEPORTE 🇺🇸
+http://sdmx.vip:8080/Rodolfo01/Rodolfo01/158472
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PTV sports
+http://175.107.244.52:4457/play/a08g/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Hoster Live 1
+https://sportsleading.online/live/stream_e1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Golf.
+http://89.187.167.94:80/live.ts?channelId=146&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SKY SPORTS GOLF
+http://89.187.167.92:80/live.ts?channelId=147&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Sports Racing.
+http://89.187.167.92:80/live.ts?channelId=148&deviceUser=alex1234&devicePass=alex1234&uid=21890
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SKY SPORTS RACING
+http://89.187.167.92:80/live.ts?channelId=149&deviceUser=alex1234&devicePass=alex1234&uid=21890
